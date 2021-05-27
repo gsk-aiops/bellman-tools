@@ -15,3 +15,5 @@
 
 * If assembly was successful, upload assembly .jar to a running cluster in Databricks, or load into a spar-shell session,
 or include in a spark-submit job. Assembly .jar can be found in target/scala-2.11/bellman-tools-assembly-0.1.jar
+
+* A demo Databricks notebook can be found in the [notebooks](notebooks) directory. 

@@ -1,0 +1,100 @@
+<http://purl.obolibrary.org/obo/UBERON_0000944> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "dorsal vein" .
+<http://purl.obolibrary.org/obo/UBERON_0005204> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "laryngeal submucosa gland" .
+<http://purl.obolibrary.org/obo/UBERON_3010082> <http://purl.obolibrary.org/obo/core#provenance_notes> "This class was sourced from an external ontology (amphibian_anatomy). Its definitions, naming conventions and relationships may need to be checked for compatibility with uberon" .
+<http://purl.obolibrary.org/obo/UBERON_0001628> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "MA:0002023" .
+<http://purl.obolibrary.org/obo/UBERON_0002250> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0002250> .
+<http://purl.obolibrary.org/obo/UBERON_0012070> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0003267> .
+<http://purl.obolibrary.org/obo/UBERON_0001908> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0001908> .
+<http://purl.obolibrary.org/obo/UBERON_0009911> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://gsk-kg.rdip.gsk.com/umls/CUI=C0921005> .
+<http://purl.obolibrary.org/obo/UBERON_0006289> <http://purl.obolibrary.org/obo/IAO_0000115> "A rib endochondral element that is composed primarily of a pre-cartilage condensation." .
+<http://purl.obolibrary.org/obo/UBERON_0004177> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hematopoeitic organ" .
+<http://purl.obolibrary.org/obo/UBERON_0002441> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0002441> .
+<http://purl.obolibrary.org/obo/UBERON_0013118> <http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/uberon/core#cumbo> .
+<http://purl.obolibrary.org/obo/UBERON_0005191> <http://www.w3.org/2002/07/owl#deprecated> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://purl.obolibrary.org/obo/UBERON_0001731> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "BSA:0000113" .
+<http://purl.obolibrary.org/obo/UBERON_0000467> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "NCIT:C12919" .
+<http://purl.obolibrary.org/obo/UBERON_0004704> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://gsk-kg.rdip.gsk.com/umls/CUI=C0836913> .
+<http://purl.obolibrary.org/obo/UBERON_0002329> <http://purl.obolibrary.org/obo/UBPROP_0000002> "relationship type change: OBO_REL:part_of trunk (TAO:0001115) CHANGED TO: develops_from trunk (UBERON:0002100)[TAO]" .
+<http://purl.obolibrary.org/obo/UBERON_2002066> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon/phenoscape-anatomy" .
+<http://purl.obolibrary.org/obo/UBERON_0014447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0004211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0000074> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2009-06-18T09:26:37Z" .
+<http://purl.obolibrary.org/obo/UBERON_0003901> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/UBERON_0002120> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0002120> .
+<http://purl.obolibrary.org/obo/UBERON_0004105> <http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/uberon/core#pheno_slim> .
+<http://purl.obolibrary.org/obo/UBERON_0002812> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "NCIT:C32955" .
+<http://purl.obolibrary.org/obo/UBERON_0005661> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "EMAPA:16582" .
+<http://purl.obolibrary.org/obo/UBERON_0006670> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "central tendon" .
+<http://purl.obolibrary.org/obo/UBERON_0011202> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0012275> .
+<http://purl.obolibrary.org/obo/UBERON_0002144> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "MBA:1044" .
+<http://purl.obolibrary.org/obo/UBERON_2000925> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon/phenoscape-anatomy" .
+<http://purl.obolibrary.org/obo/UBERON_0001745> <http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/uberon/core#uberon_slim> .
+<http://purl.obolibrary.org/obo/UBERON_0003557> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "VHOG:0000233" .
+<http://purl.obolibrary.org/obo/UBERON_0005059> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/UBERON_0013558> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "BA27" .
+<http://purl.obolibrary.org/obo/UBERON_4200063> <http://purl.obolibrary.org/obo/IAO_0000115> "Posteriorly projecting bony tubercle that is located proximal to the lateral condyle of the femur." .
+<http://purl.obolibrary.org/obo/UBERON_0000166> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "oral part of face" .
+<http://purl.obolibrary.org/obo/UBERON_2000810> <http://purl.obolibrary.org/obo/IAO_0000115> "Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995." .
+<http://purl.obolibrary.org/obo/UBERON_0008848> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0008841> .
+<http://purl.obolibrary.org/obo/UBERON_0004241> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "main bronchus non-striated muscle" .
+<http://purl.obolibrary.org/obo/UBERON_0004753> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "TAO:0001455" .
+<http://purl.obolibrary.org/obo/UBERON_0003080> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "TAO:0007038" .
+<http://purl.obolibrary.org/obo/UBERON_0007812> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "postanal tail" .
+<http://purl.obolibrary.org/obo/UBERON_0011221> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.bioontology.org/ontology/SNOMEDCT/280612002> .
+<http://purl.obolibrary.org/obo/UBERON_0034709> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0034709> .
+<http://purl.obolibrary.org/obo/UBERON_2001266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0014606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0005041> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "respiratory bronchiole mucous membrane" .
+<http://purl.obolibrary.org/obo/UBERON_0004713> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "FMA:19618" .
+<http://purl.obolibrary.org/obo/UBERON_0003299> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "roofplate midbrain" .
+<http://purl.obolibrary.org/obo/UBERON_0019202> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0019201> .
+<http://purl.obolibrary.org/obo/UBERON_0011899> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0011822> .
+<http://purl.obolibrary.org/obo/UBERON_0002842> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "BIRNLEX:2607" .
+<http://purl.obolibrary.org/obo/UBERON_0002589> <http://purl.obolibrary.org/obo/IAO_0000115> "Part of the corticospinal tract located in the spinal cord, formed as 75 to 90% of the corticospinal fibers cross to the opposite side of the brainstem in the pyramidal decussation. This tract descends the length of the spinal cord in the lateral white column (Adapted from Brain Info)" .
+<http://purl.obolibrary.org/obo/UBERON_0004426> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "FMA:42800" .
+<http://purl.obolibrary.org/obo/UBERON_0004664> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "EMAPA:35136" .
+<http://purl.obolibrary.org/obo/UBERON_0002551> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=515> .
+<http://purl.obolibrary.org/obo/UBERON_0013573> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Brodmann area 40" .
+<http://purl.obolibrary.org/obo/UBERON_0002013> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/UBERON_0003338> <http://purl.obolibrary.org/obo/UBPROP_0000012> "we follow MA in including separate classes for ganglion and peripheral nervous system, even though for vertebrates gangia are always in the PNS" .
+<http://purl.obolibrary.org/obo/UBERON_2005010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0002487> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "MESH:A14.254.900.265" .
+<http://purl.obolibrary.org/obo/UBERON_0003309> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "floor plate of mature diencephalon" .
+<http://purl.obolibrary.org/obo/UBERON_0003087> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0003087> .
+<http://purl.obolibrary.org/obo/UBERON_0002597> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "BAMS:PSV" .
+<http://purl.obolibrary.org/obo/UBERON_0006104> <http://purl.obolibrary.org/obo/IAO_0000115> "Ectorhinal area 36 is a subdivision of the cytoarchitecturally defined temporal region of cerebral cortex. With its medial boundary corresponding approximately to the rhinal sulcus it is located primarily in the fusiform gyrus. Cytoarchitecturally it is bounded laterally and caudally by the inferior temporal area 20, medially by the perirhinal area 35 and rostrally by the temporopolar area 38 (H) (Brodmann-1909). Together with Brodmann area 35, it comprises the perirhinal cortex." .
+<http://purl.obolibrary.org/obo/UBERON_0008798> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0005156> .
+<http://purl.obolibrary.org/obo/UBERON_0034810> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0014560> .
+<http://purl.obolibrary.org/obo/UBERON_0002978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0004337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_0003643> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "MA:0001800" .
+<http://purl.obolibrary.org/obo/UBERON_0002395> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://gsk-kg.rdip.gsk.com/umls/CUI=C0039277> .
+<http://purl.obolibrary.org/obo/UBERON_0000313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://purl.obolibrary.org/obo/UBERON_3000911> <http://www.geneontology.org/formats/oboInOwl#created_by> "amphibian_anatomy_curators" .
+<http://purl.obolibrary.org/obo/UBERON_0004721> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/UBERON_0006861> <http://purl.obolibrary.org/obo/IAO_0000115> "Subdivision of long bone which forms the part of the bone between two metaphyses. Note that the diaphysis includes the metaphyses, but the diaphysis proper excludes these." .
+<http://purl.obolibrary.org/obo/UBERON_0004122> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0004122> .
+<http://purl.obolibrary.org/obo/UBERON_0012651> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0012651> .
+<http://purl.obolibrary.org/obo/UBERON_0001893> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.obolibrary.org/obo/UBERON_0010314> .
+<http://purl.obolibrary.org/obo/UBERON_0005387> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "BTO:0003653" .
+<http://purl.obolibrary.org/obo/UBERON_0009597> <http://www.w3.org/2000/01/rdf-schema#label> "mesenchyme of interdigital region between digits 2 and 3" .
+<http://purl.obolibrary.org/obo/UBERON_0008813> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "FMA:61275" .
+<http://purl.obolibrary.org/obo/UBERON_0004772> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0004772> .
+<http://purl.obolibrary.org/obo/UBERON_0010723> <http://purl.obolibrary.org/obo/IAO_0000115> "An accessory bone located proximal to the base of the fifth metatarsal. Its prevalence has been reported to be from 0.1% to 1.0%. This bone is found within the peroneus brevis tendon and is considered to be asymptomatic in the majority of people" .
+<http://purl.obolibrary.org/obo/UBERON_2001520> <http://purl.obolibrary.org/obo/IAO_0000115> "Ceratobranchial cartilage that is bilaterally paired and articulates laterally with epibranchial 1 cartilage or bone." .
+<http://purl.obolibrary.org/obo/UBERON_0001150> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "EHDAA2:0001368" .
+<http://purl.obolibrary.org/obo/UBERON_0013535> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Brodmann area 4" .
+<http://purl.obolibrary.org/obo/UBERON_0007490> <http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> "EHDAA2:0003099" .
+<http://purl.obolibrary.org/obo/UBERON_0009065> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/UBERON_0007639> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.bioontology.org/ontology/SNOMEDCT/369094002> .
+<http://purl.obolibrary.org/obo/UBERON_0000092> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "WBls:0000093" .
+<http://purl.obolibrary.org/obo/UBERON_0014529> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=3064> .
+<http://purl.obolibrary.org/obo/UBERON_0006642> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "EMAPA:29046" .
+<http://purl.obolibrary.org/obo/UBERON_3010757> <http://purl.obolibrary.org/obo/IAO_0000115> "Dorsal branch of ADLLN that innervates supraorbital line of neuromasts." .
+<http://purl.obolibrary.org/obo/UBERON_0013590> <http://purl.obolibrary.org/obo/IAO_0000115> "A deep groove which runs transversely across the rostro-dorsal surface of the cerebrum and which is one of the landmarks on the cerebral cortex." .
+<http://purl.obolibrary.org/obo/UBERON_0002867> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://braininfo.rprc.washington.edu/centraldirectory.aspx?ID=756" .
+<http://purl.obolibrary.org/obo/UBERON_0007165> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "FMA:38860" .
+<http://purl.obolibrary.org/obo/UBERON_0001190> <http://www.w3.org/2000/01/rdf-schema#label> "ovarian artery" .
+<http://purl.obolibrary.org/obo/UBERON_0010398> <http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/uberon/core#pheno_slim> .
+<http://purl.obolibrary.org/obo/UBERON_0000472> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0000472> .
+<http://purl.obolibrary.org/obo/UBERON_0001394> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/UBERON_0001394> .

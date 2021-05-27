@@ -13,5 +13,5 @@
 * Build assembly .jar (build usually runs for about 5 minutes, possibly more):  
 `sbt 'set test in assembly := {}' clean assembly`
 
-* If assembly was successful, upload assembly .jar to a running cluster in Databricks, or load into a spar-shell session,
+* If assembly was successful, upload assembly .jar to a running cluster in Databricks, or load into a spark-shell session,
 or include in a spark-submit job. Assembly .jar can be found in target/scala-2.11/bellman-tools-assembly-0.1.jar

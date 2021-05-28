@@ -11,7 +11,7 @@ import org.apache.jena.riot.Lang
 org.apache.jena.query.ARQ.init()
 ```
 2. Create a Dataframe:  
-You can either load an RDF .nt file using the convenience method:
+You can either load an RDF .nt file using the convenience method (used just below), or you can bring your own bring your own Dataframe with Columns "s", "p", "o":
 ```scala
 val df = Utils.ntToDf("/path/to/your/rdf.nt")
 df.printSchema
@@ -21,7 +21,7 @@ df.printSchema
 |-- o: string (nullable = true)
 ```
 
-Or you can bring your own bring your own Dataframe with Columns "s", "p", "o":
+
 
 3. You are now ready to query. The com.gsk.kg.engine.syntax._ import above gives us the df.sparql(q:String) method:
 ```scala
@@ -30,7 +30,9 @@ SELECT ?s ?p ?o
 WHERE { ?s ?p ?o }
 LIMIT 10
 """)
-```
+``` 
+
+![Sparql query results](https://github.com/gsk-aiops/bellman-tools/blob/main/image.jpg?raw=true)
 
 ### How to build the tools:  
 #### Prerequisites:

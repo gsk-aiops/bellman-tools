@@ -31,7 +31,7 @@ WHERE { ?s ?p ?o }
 LIMIT 10
 """)
 ``` 
-
+Results will be similar to: 
 ![Sparql query results](https://github.com/gsk-aiops/bellman-tools/blob/main/images/results-example.png?raw=true)
 
 

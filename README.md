@@ -21,8 +21,6 @@ df.printSchema
 |-- o: string (nullable = true)
 ```
 
-
-
 3. You are now ready to query. The com.gsk.kg.engine.syntax._ import above gives us the df.sparql(q:String) method:
 ```scala
 df.sparql("""
@@ -39,6 +37,8 @@ Results will be similar to:
 #### Prerequisites:
 * [SBT](https://www.scala-sbt.org/) > 1.3.10
 * [GIT](https://git-scm.com/downloads)
+* Scala version: 2.11.12
+* Spark version 2.4.x
 
 #### Steps to build tools
 * Clone this repo:  

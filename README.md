@@ -32,7 +32,8 @@ LIMIT 10
 """)
 ``` 
 
-![Sparql query results](https://github.com/gsk-aiops/bellman-tools/blob/main/image.jpg?raw=true)
+![Sparql query results](https://github.com/gsk-aiops/bellman-tools/blob/main/images/image.jpg?raw=true)
+
 
 ### How to build the tools:  
 #### Prerequisites:
